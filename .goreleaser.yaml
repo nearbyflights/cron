@@ -19,10 +19,15 @@ nfpms:
   - deb
   - rpm
   - apk
+  replacements:
+    darwin: macOS 
+    386: 32bit    
+    amd64: 64bit
+    arm: arm32
 archives:
   - id: cron
     replacements:
-      darwin: macos
+      darwin: macOS
       386: 32bit
       amd64: 64bit
       arm: arm32
