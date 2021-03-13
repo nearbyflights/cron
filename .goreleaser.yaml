@@ -19,6 +19,24 @@ nfpms:
   - deb
   - rpm
   - apk
+archives:
+  - id: cron
+    replacements:
+      darwin: macos
+      386: 32bit
+      amd64: 64bit
+      arm: arm32
+    format_overrides:
+      -
+        goos: windows
+        format: zip
+    files:
+      - CHANGELOG.md
+      - LICENSE
+      - README.md 
+release:
+  prerelease: auto
+  name_template: "{{.Tag}}"   
 changelog:
   sort: asc
   filters:
