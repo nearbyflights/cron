@@ -1,0 +1,1 @@
+INSERT INTO flights (geom, country, call_sign, icao, velocity) VALUES (ST_SetSRID(ST_MakePoint(-46.655919, -23.627238),4326), 'Brazil', 'testCallSign', 'testICAO', 40.55);

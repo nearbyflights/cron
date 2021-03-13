@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="136efd3d-476a-4836-85b8-dc8939c52b40" name="Default Changelist" comment="" />
+    <list default="true" id="136efd3d-476a-4836-85b8-dc8939c52b40" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +18,9 @@
     </option>
   </component>
   <component name="GOROOT" path="D:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
@@ -61,6 +67,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="561" y="246" key="#Go_Modules/0.0.1536.824@0.0.1536.824" timestamp="1609552554815" />
+    <state x="491" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614548153695">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="491" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1614548153695" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1612132940117">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

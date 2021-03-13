@@ -2,7 +2,7 @@
 
 This service will periodically get live data about all flights by using the OpenSky API and saving them in a PostgreSQL database.
 
-## Usage
+## Running
 
 ```
 go run main.go
