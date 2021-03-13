@@ -9,4 +9,19 @@ builds:
       - 386
       - amd64
       - arm
-      - arm64
+      - arm64  
+nfpms:
+- maintainer: Fagner Carvalho <fagnerncarvalho@gmail.com>
+  description: Get live flights data from OpenSky API and save in a PostgreSQL database.
+  homepage: https://github.com/nearbyflights/cron
+  license: MIT
+  formats:
+  - deb
+  - rpm
+  - apk
+changelog:
+  sort: asc
+  filters:
+    exclude:
+      - Merge pull request
+      - Merge branch      
